@@ -11,6 +11,8 @@
 (Sistema) Requisitos Funcionais /002
 [Requisitos Funcionais RF 002.pdf](https://github.com/user-attachments/files/35103465/Requisitos.Funcionais.RF.002.pdf)
 
+(Sistema) Requisitos Funcionais /003
+[Requisitos Funcionais RF 002.pdf](https://github.com/user-attachments/files/35362042/Requisitos.Funcionais.RF.002.pdf)
 
 
 (Sistema) Requisitos Não Funcionais /001
