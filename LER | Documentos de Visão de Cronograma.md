@@ -14,6 +14,8 @@
 (Sistema) Requisitos Funcionais /003
 [Requisitos Funcionais RF 002.pdf](https://github.com/user-attachments/files/35362042/Requisitos.Funcionais.RF.002.pdf)
 
+(Sistema) Requisitos Funcionais /004
+[modelo - Levantamento de Requisitos - 004.pdf](https://github.com/user-attachments/files/35528318/modelo.-.Levantamento.de.Requisitos.-.004.pdf)
 
 (Sistema) Requisitos Não Funcionais /001
 [Levantamento de Requisitos Não funcionais - 002.pdf](https://github.com/user-attachments/files/34991698/Levantamento.de.Requisitos.Nao.funcionais.-.002.pdf)
